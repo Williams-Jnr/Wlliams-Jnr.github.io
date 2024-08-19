@@ -260,7 +260,7 @@ button:hover {
 @media(max-width: 500px) {
   .carousel {
     height: 300px;
-    width: 70%;
+    width: 300px;
   }
   img {
     height: 100px;
@@ -268,13 +268,13 @@ button:hover {
     margin-left: -25px;
   }
   h1 {
-    font-size: 15px;
+    font-size: 10px;
   }
   .text {
-    font-size: 15px;
+    font-size: 10px;
   }
   .text2 {
-    font-size: 14px;
+    font-size: 10px;
   }
   .project-grid{
     display: block;
@@ -284,7 +284,7 @@ button:hover {
   }
   .contact-form {
     margin-left: 20px;
-    width: 350px;
+    width: 300px;
   }
   .icons {
     display: flex;
